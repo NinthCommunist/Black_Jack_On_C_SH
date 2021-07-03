@@ -1,2 +1,2 @@
-# Black_Jack_On_C_SH
-My Black Jack Game on C#
+# Black_Jack_Game_on_C-
+My Black Jack game on C#
